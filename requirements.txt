@@ -1,0 +1,10 @@
+# Azure SDK packages for Search
+azure-search-documents>=11.4.0
+azure-identity>=1.15.0
+azure-core>=1.29.0
+
+# For environment variable management (optional)
+python-dotenv>=1.0.0
+
+# Required by Azure SDK
+typing-extensions>=4.8.0
